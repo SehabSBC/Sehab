@@ -2,17 +2,26 @@
   <dictionary name="user">
     <words>
       <w>assentamento</w>
+      <w>caracteriza</w>
       <w>caracterização</w>
+      <w>classifica</w>
       <w>domínio</w>
+      <w>estagio</w>
+      <w>feicao</w>
+      <w>fotos</w>
       <w>funep</w>
+      <w>gravames</w>
       <w>localizacao</w>
       <w>mapeadas</w>
+      <w>moradores</w>
+      <w>morf</w>
       <w>propriedade</w>
       <w>sehab</w>
       <w>sihisb</w>
       <w>situa</w>
       <w>tipologia</w>
       <w>vulnerabilidade</w>
+      <w>zoneamento</w>
     </words>
   </dictionary>
 </component>
